@@ -25,6 +25,8 @@ header{
     border-radius: 2rem;
     text-align: center;
     border: 0.2rem black solid;
+    -webkit-box-shadow: -1px -3px 19px 13px rgba(7, 255, 230, 0.85); 
+    box-shadow: -1px -3px 19px 13px rgba(2, 196, 177, 0.85);
 }
 .conten0 h2{
     font-size: 2rem;
