@@ -1,0 +1,19 @@
+[33mcommit 095789dd7b41a37e54fdd92d80e6efdacfa3ccf0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Luis Santos <luis.felipesantos.hurtado@gmail.com>
+Date:   Thu May 6 13:36:57 2021 -0500
+
+    Cambios en la edad, nacionalidad y agregada de la recidencia
+
+[1mdiff --git a/historia.txt b/historia.txt[m
+[1mindex b717bb7..ea604dc 100644[m
+[1m--- a/historia.txt[m
+[1m+++ b/historia.txt[m
+[36m@@ -1,5 +1,6 @@[m
+ Esta es la historia de luis felipe santos.[m
+ [m
+[31m-luis felipe tine 21 años y es colombiano.[m
+[32m+[m[32mluis felipe tine 21 años y es colombocanadiense.[m
+[32m+[m[32mviviendo en todo el mundo.[m
+ [m
+ hablemos de su historia. [m
+\ No newline at end of file[m
