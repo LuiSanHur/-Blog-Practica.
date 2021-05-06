@@ -7,10 +7,33 @@ html{
     font-size: 62.5%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+header{
+    width: 100vw;
+    height: 15vh;
+    padding-top: 1rem;
+    background-color: rgb(0, 133, 133);
+    border: 0.4rem black solid;
+}
+.conten0{
+    width: 90%;
+    height: 90%;
+    padding: 2rem;
+    margin: auto;
+    background-color: rgb(131, 255, 255);
+    border-radius: 2rem;
+    text-align: center;
+    border: 0.2rem black solid;
+}
+.conten0 h2{
+    font-size: 2rem;
+    text-transform: uppercase;
+}
 main{
     width: 100vw;
     height: 50vh;
     padding-top: 2rem;
+    background-color: darkseagreen;
+    border: 0.4rem black solid;
 }
 .conten1{
     width: 90%;
@@ -38,7 +61,7 @@ main{
     border-radius: 2rem;
     border: 0.2rem black solid;
 }
-h1{
+.title-box h1{
     font-size: 1.8rem;
     text-transform: uppercase;
 }
