@@ -1,6 +1,48 @@
-body
-{
-    color: deeppink;
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main{
+    width: 100vw;
+    height: 50vh;
+    padding-top: 2rem;
+}
+.conten1{
+    width: 90%;
+    height: 90%;
+    padding: 2rem;
+    margin: auto;
+    background-color: rgb(131, 255, 255);
+    border-radius: 2rem;
+    border: 0.2rem black solid;
+}
+.article1{
+    width: 90%;
+    height: 90%;
+    margin: auto;
     text-align: center;
-    font-family: "Arial";
+    background-color: rgb(166, 255, 255);
+    border-radius: 2rem;
+    padding: 1rem;
+    border: 0.2rem black solid;
+}
+.title-box{
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color: aqua;
+    border-radius: 2rem;
+    border: 0.2rem black solid;
+}
+h1{
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
+p{
+    text-align: justify;
+    font-size: 1.1rem;
 }
